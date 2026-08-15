@@ -1,0 +1,16 @@
+/* About page alignment fixes */
+.about-page .about-hero{
+  padding-left:0;
+  padding-right:0;
+}
+.about-page .about-hero > div{
+  width:100%;
+}
+.about-page .about-hero h1,
+.about-page .about-hero p,
+.about-page .about-hero .section-label{
+  margin-left:0;
+}
+@media (max-width:800px){
+  .about-page .about-hero{padding-left:0;padding-right:0;}
+}
