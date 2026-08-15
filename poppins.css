@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800&display=swap');
+
+html,body,*{font-family:'Poppins',sans-serif!important}
+
+.hero h1,h2,.about-hero h1,.about-section-title h2,.experience-item h3,.education-grid h3,.category-card h3,.preview-card h3,.showcase-head h2,.screen-title,.about-intro-title{font-family:'Poppins',sans-serif!important;font-weight:800}
+
+.about-intro-copy p{font-family:'Poppins',sans-serif!important;font-weight:600;line-height:1.12;letter-spacing:-1.2px}
+.about-intro-copy p span{font-weight:600}
+.about-intro-title{font-weight:700!important;letter-spacing:-3px!important;line-height:.98!important}
+.about-intro-note{font-weight:400}
+.about-intro-top>.section-label{display:none}
+.about-intro-top{margin-bottom:48px}
+.about-intro-copy:before{font-family:'Poppins',sans-serif!important;font-weight:700}
+.about-service small,.about-service strong,.about-stat strong,.about-stat em,.brand-strip span,.section-label,.experience-meta span,.experience-meta strong,.education-grid strong,.brand strong,.brand small,.screen-top,.screen-footer,.category-card small,.preview-card small,.view-all,footer{font-family:'Poppins',sans-serif!important}
